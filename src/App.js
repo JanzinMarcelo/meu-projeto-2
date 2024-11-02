@@ -33,7 +33,7 @@ function App() {
         </ContextoUsuario.Provider>
       </div>
     );
-  } // fim do if usuario.logado
+  } 
   else {
     return (
       <div className="App">
